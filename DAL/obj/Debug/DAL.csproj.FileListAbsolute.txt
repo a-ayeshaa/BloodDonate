@@ -4,3 +4,7 @@ D:\Semester 10\.NET\BloodDonate\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
 D:\Semester 10\.NET\BloodDonate\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
 D:\Semester 10\.NET\BloodDonate\DAL\obj\Debug\DAL.dll
 D:\Semester 10\.NET\BloodDonate\DAL\obj\Debug\DAL.pdb
+D:\Semester 10\.NET\BloodDonate\DAL\bin\Debug\DAL.dll.config
+D:\Semester 10\.NET\BloodDonate\DAL\bin\Debug\EntityFramework.dll
+D:\Semester 10\.NET\BloodDonate\DAL\bin\Debug\EntityFramework.xml
+D:\Semester 10\.NET\BloodDonate\DAL\obj\Debug\DAL.csproj.CopyComplete

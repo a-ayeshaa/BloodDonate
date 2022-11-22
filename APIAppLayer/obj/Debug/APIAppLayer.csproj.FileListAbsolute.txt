@@ -67,3 +67,10 @@ D:\Semester 10\.NET\BloodDonate\APIAppLayer\obj\Debug\APIAppLayer.csproj.CoreCom
 D:\Semester 10\.NET\BloodDonate\APIAppLayer\obj\Debug\APIAppLayer.csproj.CopyComplete
 D:\Semester 10\.NET\BloodDonate\APIAppLayer\obj\Debug\APIAppLayer.dll
 D:\Semester 10\.NET\BloodDonate\APIAppLayer\obj\Debug\APIAppLayer.pdb
+D:\Semester 10\.NET\BloodDonate\APIAppLayer\bin\DAL.dll
+D:\Semester 10\.NET\BloodDonate\APIAppLayer\bin\AutoMapper.dll
+D:\Semester 10\.NET\BloodDonate\APIAppLayer\bin\EntityFramework.dll
+D:\Semester 10\.NET\BloodDonate\APIAppLayer\bin\DAL.pdb
+D:\Semester 10\.NET\BloodDonate\APIAppLayer\bin\DAL.dll.config
+D:\Semester 10\.NET\BloodDonate\APIAppLayer\bin\AutoMapper.xml
+D:\Semester 10\.NET\BloodDonate\APIAppLayer\bin\EntityFramework.xml

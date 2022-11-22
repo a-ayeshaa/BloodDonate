@@ -16,7 +16,7 @@ namespace DAL
             return new GroupRepo();
         }
 
-        public static IRepo<Donor,int,Donor> DonorDataAcess()
+        public static IRepo<Donor,int,Donor> DonorDataAccess()
         {
             return new DonorRepo();
         }
@@ -30,5 +30,6 @@ namespace DAL
         {
             return new UserRepo();
         }
+
     }
 }
