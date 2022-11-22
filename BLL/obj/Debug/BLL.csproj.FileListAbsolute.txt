@@ -1,0 +1,9 @@
+D:\Semester 10\.NET\BloodDonate\BLL\bin\Debug\BLL.dll
+D:\Semester 10\.NET\BloodDonate\BLL\bin\Debug\BLL.pdb
+D:\Semester 10\.NET\BloodDonate\BLL\bin\Debug\DAL.dll
+D:\Semester 10\.NET\BloodDonate\BLL\bin\Debug\DAL.pdb
+D:\Semester 10\.NET\BloodDonate\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Semester 10\.NET\BloodDonate\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Semester 10\.NET\BloodDonate\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Semester 10\.NET\BloodDonate\BLL\obj\Debug\BLL.dll
+D:\Semester 10\.NET\BloodDonate\BLL\obj\Debug\BLL.pdb
